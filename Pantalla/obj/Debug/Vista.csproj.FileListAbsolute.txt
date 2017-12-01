@@ -1,0 +1,22 @@
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.Pantalla.resources
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.Properties.Resources.resources
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.exe.config
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.exe
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.pdb
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.exe
+c:\users\deckjazz\documents\visual studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.pdb
+C:\Users\Deckjazz\Documents\Visual Studio 2017\Projects\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.Demanda.resources
+C:\Users\Deckjazz\Documents\Visual Studio 2017\Projects\Ejercicio333_SIM\Pantalla\bin\Debug\Entidades.dll
+C:\Users\Deckjazz\Documents\Visual Studio 2017\Projects\Ejercicio333_SIM\Pantalla\bin\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.exe.config
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.exe
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\bin\Debug\Pantalla.pdb
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.Demanda.resources
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.Pantalla.resources
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.Properties.Resources.resources
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.exe
+C:\Users\Deckjazz\Desktop\Ejercicio333_SIM\Pantalla\obj\Debug\Pantalla.pdb
